@@ -1,0 +1,14 @@
+package java_assignment_2_statements;
+
+public class Assignment9 {
+	
+	public static void main(String[] args){
+		
+		int i = 0;
+		while (i<7){
+			System.out.println("In loop");
+			i ++;
+		}
+	}
+
+}
